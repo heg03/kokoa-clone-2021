@@ -4,6 +4,7 @@
   align-items: center;
   padding: var(--horizontal-space);
   margin-bottom: -10px;
+  /*주석을 넣어볼게요. 소스가 변경 됩니다.*/
 }
 
 .screen-header__title {

@@ -16,3 +16,11 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.alt-header__column:last-child i {
+  margin-left: 10px;
+}
+
+.alt-header__title {
+  margin-left: 40px;
+}
